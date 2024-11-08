@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3ACDD63-5D62-4692-95FA-92DF8315FE46}|E1_Geometry\\E1_Geometry.vcxproj|D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\E1_Geometry\\App1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3ACDD63-5D62-4692-95FA-92DF8315FE46}|E1_Geometry\\E1_Geometry.vcxproj|solutionrelative:E1_Geometry\\App1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3ACDD63-5D62-4692-95FA-92DF8315FE46}|E1_Geometry\\E1_Geometry.vcxproj|D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\E1_Geometry\\App1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3ACDD63-5D62-4692-95FA-92DF8315FE46}|E1_Geometry\\E1_Geometry.vcxproj|solutionrelative:E1_Geometry\\App1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3ACDD63-5D62-4692-95FA-92DF8315FE46}|E1_Geometry\\E1_Geometry.vcxproj|D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\E1_Geometry\\ColourShader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3ACDD63-5D62-4692-95FA-92DF8315FE46}|E1_Geometry\\E1_Geometry.vcxproj|solutionrelative:E1_Geometry\\ColourShader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3ACDD63-5D62-4692-95FA-92DF8315FE46}|E1_Geometry\\E1_Geometry.vcxproj|D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\E1_Geometry\\ColourShader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3ACDD63-5D62-4692-95FA-92DF8315FE46}|E1_Geometry\\E1_Geometry.vcxproj|solutionrelative:E1_Geometry\\ColourShader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3ACDD63-5D62-4692-95FA-92DF8315FE46}|E1_Geometry\\E1_Geometry.vcxproj|D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\E1_Geometry\\TexturedQuad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3ACDD63-5D62-4692-95FA-92DF8315FE46}|E1_Geometry\\E1_Geometry.vcxproj|solutionrelative:E1_Geometry\\TexturedQuad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E887C38B-1273-433A-9DAC-A153DA5CF145}|DXFramework\\DXFramework.vcxproj|D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\DXFramework\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E887C38B-1273-433A-9DAC-A153DA5CF145}|DXFramework\\DXFramework.vcxproj|solutionrelative:DXFramework\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3ACDD63-5D62-4692-95FA-92DF8315FE46}|E1_Geometry\\E1_Geometry.vcxproj|D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\E1_Geometry\\TexturedQuad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3ACDD63-5D62-4692-95FA-92DF8315FE46}|E1_Geometry\\E1_Geometry.vcxproj|solutionrelative:E1_Geometry\\TexturedQuad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3ACDD63-5D62-4692-95FA-92DF8315FE46}|E1_Geometry\\E1_Geometry.vcxproj|D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\E1_Geometry\\shaders\\colour_ps.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A3ACDD63-5D62-4692-95FA-92DF8315FE46}|E1_Geometry\\E1_Geometry.vcxproj|solutionrelative:E1_Geometry\\shaders\\colour_ps.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3ACDD63-5D62-4692-95FA-92DF8315FE46}|E1_Geometry\\E1_Geometry.vcxproj|D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\E1_Geometry\\shaders\\colour_vs.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A3ACDD63-5D62-4692-95FA-92DF8315FE46}|E1_Geometry\\E1_Geometry.vcxproj|solutionrelative:E1_Geometry\\shaders\\colour_vs.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3ACDD63-5D62-4692-95FA-92DF8315FE46}|E1_Geometry\\E1_Geometry.vcxproj|D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\E1_Geometry\\TextureShader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3ACDD63-5D62-4692-95FA-92DF8315FE46}|E1_Geometry\\E1_Geometry.vcxproj|solutionrelative:E1_Geometry\\TextureShader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3ACDD63-5D62-4692-95FA-92DF8315FE46}|E1_Geometry\\E1_Geometry.vcxproj|D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\E1_Geometry\\TextureShader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3ACDD63-5D62-4692-95FA-92DF8315FE46}|E1_Geometry\\E1_Geometry.vcxproj|solutionrelative:E1_Geometry\\TextureShader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ColourShader.h",
+              "DocumentMoniker": "D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\E1_Geometry\\ColourShader.h",
+              "RelativeDocumentMoniker": "E1_Geometry\\ColourShader.h",
+              "ToolTip": "D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\E1_Geometry\\ColourShader.h",
+              "RelativeToolTip": "E1_Geometry\\ColourShader.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-01T10:24:40.225Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ColourShader.cpp",
+              "DocumentMoniker": "D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\E1_Geometry\\ColourShader.cpp",
+              "RelativeDocumentMoniker": "E1_Geometry\\ColourShader.cpp",
+              "ToolTip": "D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\E1_Geometry\\ColourShader.cpp",
+              "RelativeToolTip": "E1_Geometry\\ColourShader.cpp",
+              "ViewState": "AQIAABkAAABo/////38pwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T10:24:12.022Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App1.h",
+              "DocumentMoniker": "D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\E1_Geometry\\App1.h",
+              "RelativeDocumentMoniker": "E1_Geometry\\App1.h",
+              "ToolTip": "D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\E1_Geometry\\App1.h",
+              "RelativeToolTip": "E1_Geometry\\App1.h",
+              "ViewState": "AQIAABQAAAAAAAAAAIAwwCAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-02T13:58:43.049Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App1.cpp",
+              "DocumentMoniker": "D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\E1_Geometry\\App1.cpp",
+              "RelativeDocumentMoniker": "E1_Geometry\\App1.cpp",
+              "ToolTip": "D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\E1_Geometry\\App1.cpp",
+              "RelativeToolTip": "E1_Geometry\\App1.cpp",
+              "ViewState": "AQIAABAAAAAgAAAAAAAhwBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T19:07:23.96Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TexturedQuad.h",
+              "DocumentMoniker": "D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\E1_Geometry\\TexturedQuad.h",
+              "RelativeDocumentMoniker": "E1_Geometry\\TexturedQuad.h",
+              "ToolTip": "D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\E1_Geometry\\TexturedQuad.h",
+              "RelativeToolTip": "E1_Geometry\\TexturedQuad.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-06T23:27:27.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TexturedQuad.cpp",
+              "DocumentMoniker": "D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\E1_Geometry\\TexturedQuad.cpp",
+              "RelativeDocumentMoniker": "E1_Geometry\\TexturedQuad.cpp",
+              "ToolTip": "D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\E1_Geometry\\TexturedQuad.cpp",
+              "RelativeToolTip": "E1_Geometry\\TexturedQuad.cpp",
+              "ViewState": "AQIAADMAAABAmZmZmZkuwEsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T23:27:10.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TextureShader.cpp",
+              "DocumentMoniker": "D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\E1_Geometry\\TextureShader.cpp",
+              "RelativeDocumentMoniker": "E1_Geometry\\TextureShader.cpp",
+              "ToolTip": "D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\E1_Geometry\\TextureShader.cpp",
+              "RelativeToolTip": "E1_Geometry\\TextureShader.cpp",
+              "ViewState": "AQIAAFYAAAAA//////8QwGYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T22:53:59.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TextureShader.h",
+              "DocumentMoniker": "D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\E1_Geometry\\TextureShader.h",
+              "RelativeDocumentMoniker": "E1_Geometry\\TextureShader.h",
+              "ToolTip": "D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\E1_Geometry\\TextureShader.h",
+              "RelativeToolTip": "E1_Geometry\\TextureShader.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAACpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-06T22:53:39.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Camera.cpp",
+              "DocumentMoniker": "D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\DXFramework\\Camera.cpp",
+              "RelativeDocumentMoniker": "DXFramework\\Camera.cpp",
+              "ToolTip": "D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\DXFramework\\Camera.cpp",
+              "RelativeToolTip": "DXFramework\\Camera.cpp",
+              "ViewState": "AQIAANwAAAAAnJmZmZktwPMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T18:25:32.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "colour_vs.hlsl",
+              "DocumentMoniker": "D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\E1_Geometry\\shaders\\colour_vs.hlsl",
+              "RelativeDocumentMoniker": "E1_Geometry\\shaders\\colour_vs.hlsl",
+              "ToolTip": "D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\E1_Geometry\\shaders\\colour_vs.hlsl",
+              "RelativeToolTip": "E1_Geometry\\shaders\\colour_vs.hlsl",
+              "ViewState": "AQIAAAMAAAAA8DIzMzPbvyEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-09-28T19:17:24.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "colour_ps.hlsl",
+              "DocumentMoniker": "D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\E1_Geometry\\shaders\\colour_ps.hlsl",
+              "RelativeDocumentMoniker": "E1_Geometry\\shaders\\colour_ps.hlsl",
+              "ToolTip": "D:\\Abertay\\CMP-502--Graphics\\cmp502-week-1-geometry-safwanpaleri\\E1_Geometry\\E1_Geometry\\shaders\\colour_ps.hlsl",
+              "RelativeToolTip": "E1_Geometry\\shaders\\colour_ps.hlsl",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-09-28T19:14:43.394Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
